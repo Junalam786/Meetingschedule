@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Meetingschedule/static/css/main.3a755a6a.css",
+    "main.js": "/Meetingschedule/static/js/main.0e9cc595.js",
+    "static/js/787.7c67f256.chunk.js": "/Meetingschedule/static/js/787.7c67f256.chunk.js",
+    "index.html": "/Meetingschedule/index.html",
+    "main.3a755a6a.css.map": "/Meetingschedule/static/css/main.3a755a6a.css.map",
+    "main.0e9cc595.js.map": "/Meetingschedule/static/js/main.0e9cc595.js.map",
+    "787.7c67f256.chunk.js.map": "/Meetingschedule/static/js/787.7c67f256.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a755a6a.css",
+    "static/js/main.0e9cc595.js"
+  ]
+}
